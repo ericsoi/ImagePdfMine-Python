@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo apt-get install python3 -y
 printf "\n\n"
-sudo apt-get install pythin3-pip
+sudo apt-get install python3-pip
 printf "\n\n"
 sudo apt-get install swig -y
 printf "\n\n"
