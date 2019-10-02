@@ -1,0 +1,62 @@
+[
+    {
+        "Billed To": [
+            {
+                "Account No": "TC-02545",
+                "Address": "42 Main Road, Brianville ",
+                "Name": "CL-02545"
+            }
+        ],
+        "Billed by": [
+            {
+                "Address": "sales@insightcom",
+                "Name": "Insight",
+                "Tel No": "010-012-6359 2191",
+                "Vat No": "0158653"
+            }
+        ],
+        "Invoice": [
+            {
+                "Billed Items": [
+                    "NLP Platform Credits",
+                    "Basic service fee",
+                    "Invoice Processing",
+                    "Policy Documents Processed"
+                ],
+                "Date Invoiced": "2016-08-21",
+                "Invoice Total": "R2433.40",
+                "Vat Percentage": "R317.40"
+            }
+        ]
+    },
+    {
+        "Billed To": [
+            {
+                "Account No": "TC-02546",
+                "Address": "9 2 Drive, Dave County ",
+                "Name": "Titan Core"
+            }
+        ],
+        "Billed by": [
+            {
+                "Address": "sales@insightcom",
+                "Name": "Insight",
+                "Tel No": "010-012-6359 2191",
+                "Vat No": "0158653"
+            }
+        ],
+        "Invoice": [
+            {
+                "Billed Items": [
+                    "NLP Platform Credits",
+                    "Basic service fee",
+                    "Invoice Processing",
+                    "Policy Documents Processing"
+                ],
+                "Date Invoiced": "2018-08-21",
+                "Invoice Total": "R2433.40",
+                "Vat Percentage": "R317.40"
+            }
+        ]
+    }
+]
