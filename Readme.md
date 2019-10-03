@@ -20,7 +20,7 @@ Usage.
 		$ cd ..
 		$ python3 extractscript.py test.pdf
 -	The output of this script is placed under the scripts working directory with the name output.json
-		$ls -l
+		$ ls -l
 			extractscript.py
 			output.json
 			requirements
